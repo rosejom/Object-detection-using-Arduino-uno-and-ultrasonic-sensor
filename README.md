@@ -10,6 +10,7 @@ COMPONENTS USED
 3.buzzer - 5v
 4.Arduino UNO 
 5.UltraSonic sensor -HC-SR04 
+6.Connecting wires
 
 
 CONNECTION
